@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "lcd_interface.h": "c",
+        "errorstates.h": "c",
+        "dio_interface.h": "c",
+        "std.h": "c",
+        "adc_config.h": "c",
+        "exti_config.h": "c",
+        "exti_private.h": "c"
+    }
+}
